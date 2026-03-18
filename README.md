@@ -21,6 +21,6 @@
 
 ## Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/nethmina-peiris-a0799b244/)
+- [LinkedIn](https://www.linkedin.com/in/nethmina-peiris-a0799b244/)
 
 Thanks for visiting my profile! Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate or chat.
